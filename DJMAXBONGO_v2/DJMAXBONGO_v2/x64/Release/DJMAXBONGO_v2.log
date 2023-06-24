@@ -1,0 +1,8 @@
+﻿  source.cpp
+D:\SFMLasdf\DJMAXBONGO_v2\DJMAXBONGO_v2\DJMAXBONGO_v2\source.cpp(214,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\SFMLasdf\DJMAXBONGO_v2\DJMAXBONGO_v2\DJMAXBONGO_v2\source.cpp(214,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 227 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  DJMAXBONGO_v2.vcxproj -> D:\SFMLasdf\DJMAXBONGO_v2\DJMAXBONGO_v2\x64\Release\DJMAXBONGO_v2.exe

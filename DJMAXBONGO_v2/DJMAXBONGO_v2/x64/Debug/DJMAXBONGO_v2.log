@@ -1,0 +1,4 @@
+﻿  source.cpp
+D:\SFMLasdf\DJMAXBONGO_v2\DJMAXBONGO_v2\DJMAXBONGO_v2\source.cpp(214,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\SFMLasdf\DJMAXBONGO_v2\DJMAXBONGO_v2\DJMAXBONGO_v2\source.cpp(214,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  DJMAXBONGO_v2.vcxproj -> D:\SFMLasdf\DJMAXBONGO_v2\DJMAXBONGO_v2\x64\Debug\DJMAXBONGO_v2.exe
